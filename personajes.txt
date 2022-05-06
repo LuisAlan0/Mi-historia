@@ -1,0 +1,4 @@
+personajes: 
+cocodrilo 
+mono
+conejo
